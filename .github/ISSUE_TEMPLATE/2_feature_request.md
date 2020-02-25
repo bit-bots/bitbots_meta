@@ -18,5 +18,5 @@ Please fill in as much of the template below as you're able.
 
 ## Describe alternatives you've considered
 <!-- Please describe alternative solutions or features you have considered. -->
-<!-- This is not strictly neccessary but helps all of us get a different point-of-view -->
+<!-- This is not strictly necessary but helps all of us get a different point-of-view -->
 
