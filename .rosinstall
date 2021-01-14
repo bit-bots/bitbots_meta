@@ -1,0 +1,96 @@
+- git:
+    local-name: bitbots_behavior
+    uri: git@github.com:bit-bots/bitbots_behavior.git
+    version: master
+- git:
+    local-name: bitbots_lowlevel
+    uri: git@github.com:bit-bots/bitbots_lowlevel.git
+    version: master
+- git:
+    local-name: bitbots_misc
+    uri: git@github.com:bit-bots/bitbots_misc.git
+    version: master
+- git:
+    local-name: bitbots_motion
+    uri: git@github.com:bit-bots/bitbots_motion.git
+    version: master
+- git:
+    local-name: bitbots_msgs
+    uri: git@github.com:bit-bots/bitbots_msgs.git
+    version: master
+- git:
+    local-name: bitbots_navigation
+    uri: git@github.com:bit-bots/bitbots_navigation.git
+    version: master
+- git:
+    local-name: bitbots_tools
+    uri: git@github.com:bit-bots/bitbots_tools.git
+    version: master
+- git:
+    local-name: bitbots_visio
+    uri: git@github.com:bit-bots/bitbots_vision.git
+    version: master
+- git:
+    local-name: center_of_mass
+    uri: git@github.com:bit-bots/center_of_mass.git
+    version: master
+- git:
+    local-name: dynamic_stack_decider
+    uri: git@github.com:bit-bots/dynamic_stack_decider.git
+    version: master
+- git:
+    local-name: humanoid_base_footprint
+    uri: git@github.com:bit-bots/humanoid_base_footprint.git
+    version: master
+- git:
+    local-name: humanoid_league_misc
+    uri: git@github.com:bit-bots/humanoid_league_misc.git
+    version: master
+- git:
+    local-name: humanoid_league_msgs
+    uri: git@github.com:bit-bots/humanoid_league_msgs.git
+    version: master
+- git:
+    local-name: humanoid_league_visualization
+    uri: git@github.com:bit-bots/humanoid_league_visualization.git
+    version: master
+- git:
+    local-name: human_pose_estimation_openvino
+    uri: git@github.com:bit-bots/human_pose_estimation_openvino.git
+    version: master
+- git:
+    local-name: lib/bio_ik
+    uri: https://github.com/TAMS-Group/bio_ik.git
+    version: master
+- git:
+    local-name: lib/bio_ik_service
+    uri: https://github.com/TAMS-Group/bio_ik_service.git
+    version: master
+- git:
+    local-name: lib/DynamixelSDK
+    uri: git@github.com:bit-bots/DynamixelSDK.git
+    version: master
+- git:
+    local-name: lib/dynamixel-workbench
+    uri: git@github.com:bit-bots/dynamixel-workbench.git
+    version: master
+- git:
+    local-name: lib/dynamixel-workbench-msgs
+    uri: https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs.git
+    version: master
+- git:
+    local-name: lib/particle_filter
+    uri: git@github.com:bit-bots/particle_filter.git
+    version: master
+- git:
+    local-name: lib/rot_conv_lib
+    uri: git@github.com:bit-bots/rot_conv_lib.git
+    version: master
+- git:
+    local-name: udp_bridge
+    uri: git@github.com:bit-bots/udp_bridge.git
+    version: master
+- git:
+    local-name: wolfgang_robot
+    uri: git@github.com:bit-bots/wolfgang_robot.git
+    version: master
