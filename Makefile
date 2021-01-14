@@ -9,9 +9,8 @@ build :
 	scripts/install_py_extensions.bash
 	scripts/repair.sh
 
-doc :
+doc:
 	scripts/build-doc.py
-
 
 install: pull-init
 	scripts/install.pl
@@ -21,12 +20,12 @@ update: pull-all
 
 pull-all:
 	git pull
-	scripts/pull_all.sh
+	wstool update
 	scripts/pull_files.bash
 
 pull-init:
 	git pull
-	scripts/pull_init.sh
+	wstool foreach 'git pull'
 	scripts/pull_files.bash
 
 vision-files:
